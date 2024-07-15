@@ -1,0 +1,12 @@
+{
+    "resource_pack_name": "modue",
+    "texture_name": "atlas.items",
+    "texture_data": {
+        "test_item": {
+            "textures": "textures/items/test_item"
+        },
+        "red_sword": {
+            "textures": "textures/items/red_sword"
+        }
+    }
+}
