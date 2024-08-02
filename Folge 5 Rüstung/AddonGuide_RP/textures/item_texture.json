@@ -1,0 +1,24 @@
+{
+    "resource_pack_name": "modue",
+    "texture_name": "atlas.items",
+    "texture_data": {
+        "test_item": {
+            "textures": "textures/items/test_item"
+        },
+        "red_sword": {
+            "textures": "textures/items/red_sword"
+        },
+        "red_chestplate": {
+            "textures": "textures/items/red_chestplate"
+        },
+        "red_helmet": {
+            "textures": "textures/items/red_helmet"
+        },
+        "red_leggings": {
+            "textures": "textures/items/red_leggings"
+        },
+        "red_boots": {
+            "textures": "textures/items/red_boots"
+        }
+    }
+}
